@@ -22,9 +22,7 @@ It is a bot that supports different plugins and adds features to make the bot un
 - [x] API Support
   - [x] Plugin Config Files Support
   - [x] Plugin Implementations
-
-## Upcoming Features
-- [ ] Slash Commands
-  - [ ] Rewrite Command Handling
-  - [ ] Rewrite Command Managing
-- [ ] Buttons API Suport
+- [x] Slash Commands
+  - [x] Rewrite Command Handling
+  - [x] Rewrite Command Managing
+- [x] Buttons API Support
