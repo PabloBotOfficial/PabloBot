@@ -7,8 +7,7 @@ The universal bot that does it all!
 ## What is PabloBot?
 It is a bot that supports different plugins and adds features to make the bot unique. If you like to make your own plugin, please check out the wiki!
 
-## Completion Rate (100%)
-- [x] Logging on to JDA & Discord
+## Features
 - [x] Configuration Handler
 - [x] Console Command Handlers
 - [x] Discord Command Handlers
@@ -26,3 +25,4 @@ It is a bot that supports different plugins and adds features to make the bot un
   - [x] Rewrite Command Handling
   - [x] Rewrite Command Managing
 - [x] Buttons API Support
+- [x] Selection Menu Support
