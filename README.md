@@ -24,5 +24,7 @@ It is a bot that supports different plugins and adds features to make the bot un
 - [x] Slash Commands
   - [x] Rewrite Command Handling
   - [x] Rewrite Command Managing
+  - [x] Subcommands Support
+- [x] Context Menu Items Support
 - [x] Buttons API Support
 - [x] Selection Menu Support
