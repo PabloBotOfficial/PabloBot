@@ -1,11 +1,11 @@
 # PabloBotRewritten
 
-<img src="https://avatars2.githubusercontent.com/u/33165366?s=460&v=4" alt="PabloBot">
+<img src="https://pablobot.net/img/PabloBot-Logo-Transparent.png" width=150px alt="Pablo!">
 
 The universal bot that does it all!
 
-## What is PabloBot?
-It is a bot that supports different plugins and adds features to make the bot unique. If you like to make your own plugin, please check out the wiki!
+## What is Pablo!
+Pablo! is the ultimate bot that replaces multiple bots and is a multi-purpose bot to make your server fancy! If you like to make your own plugin, please check out the website's documentation for more information.
 
 ## Features
 - [x] Configuration Handler
