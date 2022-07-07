@@ -28,4 +28,4 @@ Pablo! is the ultimate bot that replaces multiple bots and is a multi-purpose bo
 - [x] Context Menu Items Support
 - [x] Buttons API Support
 - [x] Selection Menu Support
-- [] Guild Sharding Support
+- [ ] Guild Sharding Support
