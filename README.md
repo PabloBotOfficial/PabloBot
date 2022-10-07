@@ -2,7 +2,7 @@
 
 <img src="https://pablobot.net/img/PabloBot-Logo-Transparent.png" width=150px alt="Pablo!">
 
-The universal bot that does it all!
+The ultimate bot that replaces multiple bots!
 
 ## What is Pablo!
 Pablo! is the ultimate bot that replaces multiple bots and is a multi-purpose bot to make your server fancy! If you like to make your own plugin, please check out the website's documentation for more information.
